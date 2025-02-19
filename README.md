@@ -1,4 +1,4 @@
-# lilmon here 👋
+# lilmont here 👋
 I'm a full-stack developer specializing in .NET and Angular for website and software development and maintenance.
 I am always eager to grow and learn, yet I also take the time to appreciate the simple joys in life.
 
